@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="1" master_id="0" name="192.169.100.4 - metasploitable" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753368445" ts_lastsave="1753538114">
+    <rich_text justification="left"></rich_text>
+    <rich_text>   
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>   </rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="b8ea585414829d54559305e2042c31da0e41b28dc8849644281b40bf7e071003"/>
+    <encoded_png char_offset="5" justification="left" link="" sha256sum="b8ea585414829d54559305e2042c31da0e41b28dc8849644281b40bf7e071003"/>
+  </node>
+</cherrytree>

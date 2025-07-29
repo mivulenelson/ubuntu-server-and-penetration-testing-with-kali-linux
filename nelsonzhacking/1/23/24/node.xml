@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="24" master_id="0" name="scan for nmap scripts to pentest ftp" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753533123" ts_lastsave="1753533895">
+    <rich_text>use the nmap command to search for any script that can exploit ftp
+&gt;nmap 192.168.100.4 -v -sT -sV -p 21 --script=ftp*
+
+   
+   
+   
+   
+
+   
+   </rich_text>
+    <encoded_png char_offset="119" justification="left" link="" sha256sum="5308e8373b4837f32c281e24dcc89fa70efb29721023531d512a91eed6a724e6"/>
+    <encoded_png char_offset="124" justification="left" link="" sha256sum="6693d4999338c05f499a67993aebdd504b6c18e3c30d205828becfd41148dc59"/>
+    <encoded_png char_offset="129" justification="left" link="" sha256sum="b0bba4927b16cc666f4b4e6b684fc0deed32b5e68ed740cf62fcce558c881fd8"/>
+    <encoded_png char_offset="134" justification="left" link="" sha256sum="a90b3109ff9c4b6f41127378c74500ea33643d66a9f7f9f6ba063b801f999aea"/>
+    <encoded_png char_offset="140" justification="left" link="" sha256sum="d4a2af640c0c6d86bda70e0147d3bce9eada6b618a04650d79604eef6689d4a8"/>
+    <encoded_png char_offset="145" justification="left" link="" sha256sum="4dcca93bbd5170a4e81645b9db23cb8b3d00abdd8f5774dd1480169e814a81e7"/>
+  </node>
+</cherrytree>

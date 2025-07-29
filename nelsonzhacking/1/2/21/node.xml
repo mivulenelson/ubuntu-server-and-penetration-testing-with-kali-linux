@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="21" master_id="0" name="netdiscover any live hosts" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753532619" ts_lastsave="1753532701">
+    <rich_text>discovering any connected device on the network
+&gt;netdiscover 192.168.100.0/24
+
+   </rich_text>
+    <encoded_png char_offset="79" justification="left" link="" sha256sum="7f3e8465897b5584baba5f8ee13fdbb3f5c1f9ebb3b7add5cd6c437d8ffd16a0"/>
+  </node>
+</cherrytree>

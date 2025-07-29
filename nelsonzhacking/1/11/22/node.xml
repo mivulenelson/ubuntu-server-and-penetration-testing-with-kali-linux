@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="22" master_id="0" name="all ftp details scan" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753532870" ts_lastsave="1753532874">
+    <rich_text>scans all the necessary details on the ftp port
+&gt;nmap -v -sT -sV -p 21 -O 192.168.100.4
+
+   
+
+   </rich_text>
+    <encoded_png char_offset="89" justification="left" link="" sha256sum="68c6bda7b1a9bdb01ddad8963611ecb1ac5640fec3f7176c65b4ea426bc89ec5"/>
+    <encoded_png char_offset="95" justification="left" link="" sha256sum="e410887fd5729d402c68aad58685f8edae38eea5e6b52a89d2b734c12e7cdc81"/>
+  </node>
+</cherrytree>

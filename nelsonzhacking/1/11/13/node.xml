@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="13" master_id="0" name="connectin to ftp" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753462636" ts_lastsave="1753530972">
+    <rich_text>log in unto ftp 
+
+   
+name: anonymous
+password: press enter for anynomous user
+
+
+ 
+     </rich_text>
+    <encoded_png char_offset="18" justification="left" link="" sha256sum="37452678e256fd73fd023c8601e2c4a84b3c93a147b8f962ae0e493d92dfec22"/>
+    <encoded_png char_offset="82" justification="left" link="" sha256sum="400a959be3983942a58fa42eeaf276a46e9abb34bf141bade30f1e77d7fb9ab6"/>
+    <encoded_png char_offset="86" justification="left" link="" sha256sum="272b0957c7d1d2e72ec3718a50f1bb0deb403a74e8512d17d57deeab1194eec3"/>
+  </node>
+</cherrytree>

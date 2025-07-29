@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="10" master_id="0" name="oscan" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753462194" ts_lastsave="1753462290">
+    <rich_text>operating system scan
+&gt;nmap -O 192.168.100.4
+
+   
+
+   </rich_text>
+    <encoded_png char_offset="46" justification="left" link="" sha256sum="4c425b4db766b3108d895b3103fccd35d85bf92af213af0d272c37268933226c"/>
+    <encoded_png char_offset="52" justification="left" link="" sha256sum="69b0829d881d1e62f1c5809552e4b2446dc15bc57401bf59ab7c2af58fd9e625"/>
+  </node>
+</cherrytree>

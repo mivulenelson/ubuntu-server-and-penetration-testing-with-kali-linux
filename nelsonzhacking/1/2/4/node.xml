@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="4" master_id="0" name="networkscan" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753368880" ts_lastsave="1753369447">
+    <rich_text>network scan 
+&gt;nmap 192.168.100.0/24
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+</rich_text>
+    <encoded_png char_offset="39" justification="left" link="" sha256sum="52bc6a78f7538601fc6955cddb6805a21393a6f488841c7e605c5fd880d30e64"/>
+  </node>
+</cherrytree>

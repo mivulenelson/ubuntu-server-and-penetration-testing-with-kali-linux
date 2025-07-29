@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="16" master_id="0" name="enum service version of ftp" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753531611" ts_lastsave="1753536657">
+    <rich_text>enumerating the service version of the ftp port 
+&gt;nmap 192.168.100.4 -p 21 -sV
+
+   
+
+using the unix backdoor 
+
+      
+   
+   
+   
+
+   
+
+   
+
+   </rich_text>
+    <encoded_png char_offset="80" justification="left" link="" sha256sum="923b6157b37d122a2b2fc3d6a4337d92508fa980673d2446bbed9a292f861348"/>
+    <encoded_png char_offset="112" justification="left" link="" sha256sum="855cb10355b4373a35aee6a2d3602d4f400835a55a6ff0e66804165bf8d264bb"/>
+    <encoded_png char_offset="116" justification="left" link="" sha256sum="fac8609dced4655b5f6fcf00dc3bb5bf21ebbab67d86486b698830953a509290"/>
+    <encoded_png char_offset="121" justification="left" link="" sha256sum="2a191e1b7e1af9b06b0b85d7c43d3bfe3c59f05654ed84457cd7ee424bd28e18"/>
+    <encoded_png char_offset="126" justification="left" link="" sha256sum="98fc58af350ddd48531fa0fa5879caafe3ede941a7ea02c958c265e9865c280f"/>
+    <encoded_png char_offset="131" justification="left" link="" sha256sum="2e4f6218386c8c8f6f6b4046ae232fc3301037afe091bb59ef75f98bf3236869"/>
+    <encoded_png char_offset="137" justification="left" link="" sha256sum="10fd47fbc55f4145888bffef10942976c602c9304fe4c0dabbfcb19270fed267"/>
+    <encoded_png char_offset="143" justification="left" link="" sha256sum="82eb8fa705c8171c7b769d134cae805020d15e16a54de54b5b5cb1cc2093b7cc"/>
+    <encoded_png char_offset="149" justification="left" link="" sha256sum="aabf661122930f71da10c44b24c38b23097a225c5b99e41f7b4257de3edfd0b7"/>
+  </node>
+</cherrytree>

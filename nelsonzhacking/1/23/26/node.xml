@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="26" master_id="0" name="exploiting ftp" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753534912" ts_lastsave="1753534916">
+    <rich_text>after downloading the file, you can run the below command plus the ip to exploit the target
+&gt;python 49757.py 192.168.100.4 </rich_text>
+  </node>
+</cherrytree>

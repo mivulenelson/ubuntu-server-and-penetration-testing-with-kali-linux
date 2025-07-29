@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="25" master_id="0" name="connect to ftp using netcat" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753534192" ts_lastsave="1753534621">
+    <rich_text>connecting to the ftp port using netcat
+&gt;nc -v 192.168.100.4 21
+
+   
+   
+
+download vsftpd.y from exploit-db.com
+
+
+</rich_text>
+    <encoded_png char_offset="65" justification="left" link="" sha256sum="bf280c1edde14cd0f54396559bfb60b1fa7b3c90c533877428242825bbd4a352"/>
+    <encoded_png char_offset="70" justification="left" link="" sha256sum="f2f1a96c594616148919e3e1e520c04e9262f254b623e73c81ac977f18f01e0c"/>
+  </node>
+</cherrytree>

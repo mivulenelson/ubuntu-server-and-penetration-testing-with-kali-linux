@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="15" master_id="0" name="live host scan" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753531390" ts_lastsave="1753531534">
+    <rich_text>finding currently connected hosts on a network
+&gt;netdiscover -i eth0 192.168.100.0/24
+
+   </rich_text>
+    <encoded_png char_offset="86" justification="left" link="" sha256sum="a843782e6c09d0e964675b91de4eec6cd9d27b9b1ca832d9116cd50268e5724a"/>
+  </node>
+</cherrytree>

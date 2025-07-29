@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="18" master_id="0" name="connect msfconsole" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753531886" ts_lastsave="1753531918">
+    <rich_text>connect the metasploitable framework
+&gt;msfconsole
+
+   
+   </rich_text>
+    <encoded_png char_offset="50" justification="left" link="" sha256sum="11d88bc23ed27c226a52faaf62d57f6c18b9d74cb6e5b906abd0e2547338bbe8"/>
+    <encoded_png char_offset="55" justification="left" link="" sha256sum="53056ade6af4cf5e360bb58979271f508a1074773051b84c5586144121b568f7"/>
+  </node>
+</cherrytree>

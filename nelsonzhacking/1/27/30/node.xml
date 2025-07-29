@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="30" master_id="0" name="exploiting samba or smb" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753537616" ts_lastsave="1753538039">
+    <rich_text>   
+
+      
+   
+   
+   
+
+ 
+
+   
+  
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="caddf78c0ee6275ebca0a252c25d5e9c7961daa3158d2107ec61dc30e548c114"/>
+    <encoded_png char_offset="6" justification="left" link="" sha256sum="c48a7c827e249ac38cd5182a2a076c1be35fd0dfd31000497c9917f1d9c2b96e"/>
+    <encoded_png char_offset="10" justification="left" link="" sha256sum="024ce3799902ae3b5e2950e674138b6ea806b25e6f0bde470a5adfc49257886a"/>
+    <encoded_png char_offset="15" justification="left" link="" sha256sum="83be283133286d2fdbf5bd2950164ba11d4f5239bbbc55ea2ebc7b3a74d8c7ff"/>
+    <encoded_png char_offset="20" justification="left" link="" sha256sum="453638a95247927eb633e6ac7bc8b32e25739a5fe8e97f4dcac2eba47327913d"/>
+    <encoded_png char_offset="25" justification="left" link="" sha256sum="0440ce35530fc785243165bdb288e32caabeaf31cea060301153e697d5e86459"/>
+    <encoded_png char_offset="31" justification="left" link="" sha256sum="333508051cdb6aec4f6cc8f557a6d4257952147aac010b5c0eb7cc0e95889af3"/>
+    <encoded_png char_offset="35" justification="left" link="" sha256sum="ba0e007810804eff742ad31ad79a87d2b67321797bab47c1df9a81e03691e60b"/>
+  </node>
+</cherrytree>

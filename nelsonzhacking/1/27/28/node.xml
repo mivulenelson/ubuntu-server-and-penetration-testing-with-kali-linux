@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="28" master_id="0" name="zenmap" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753536852" ts_lastsave="1753537317">
+    <rich_text>open zenmap gui and type the ip and select intense scan and then scan
+
+   
+
+   
+
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="71" justification="left" link="" sha256sum="7897375ac78910a717f9014e891820290128cabd1615faf057f4e4955becd7f0"/>
+    <encoded_png char_offset="77" justification="left" link="" sha256sum="25d329f2ed03c775afdb86cc9649478407f10ed2c604e659c4e43824479e1dd9"/>
+    <encoded_png char_offset="83" justification="left" link="" sha256sum="0589a526650a3609590d2db09145deec88fc52c0673a5ff258aa8b2db8ba1a99"/>
+    <encoded_png char_offset="88" justification="left" link="" sha256sum="45b9aa896e0b79c2d440f915ad56e8f5918ad43399a1ade3aebe9d6653631807"/>
+    <encoded_png char_offset="93" justification="left" link="" sha256sum="8c015e678fc56eca31d0d0087a63f5be4390b262ad4c8972764ed60bbc2f3956"/>
+    <encoded_png char_offset="98" justification="left" link="" sha256sum="8d21f788db0e54f31e60c44f1cce67ec0e42b054e50e3b8c9c7a075007549974"/>
+    <encoded_png char_offset="103" justification="left" link="" sha256sum="e0470a374f6f5dc1cb83dfe6b26ce230cae8f2c5f87cbf8aeb81d0e6abc72263"/>
+    <encoded_png char_offset="108" justification="left" link="" sha256sum="80888c9847d88a0f809af7d197fab14edbe95ad2d678b480dde1fe71c5249f6d"/>
+    <encoded_png char_offset="114" justification="left" link="" sha256sum="91f6575ae42dbff793a043ab51e7de6711c22d07a1b092f89d7bff9d0850dce6"/>
+    <encoded_png char_offset="119" justification="left" link="" sha256sum="afc185906c9c1ea58ff68d8f58d4916faddf481288984b7cd6592eee6ab3fc42"/>
+    <encoded_png char_offset="124" justification="left" link="" sha256sum="766d04b00feb2b771001ddc855b851b267285e662ab6860d58e42711cd621847"/>
+  </node>
+</cherrytree>

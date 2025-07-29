@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="6" master_id="0" name="active hosts" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753369012" ts_lastsave="1753369201">
+    <rich_text>ping scan: all active hosts on a network
+&gt;nmap -sn 192.168.100.0/24
+
+   </rich_text>
+    <encoded_png char_offset="69" justification="left" link="" sha256sum="b8ea585414829d54559305e2042c31da0e41b28dc8849644281b40bf7e071003"/>
+  </node>
+</cherrytree>

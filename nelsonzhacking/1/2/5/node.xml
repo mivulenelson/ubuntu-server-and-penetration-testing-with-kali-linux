@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="5" master_id="0" name="portscan" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753368949" ts_lastsave="1753369382">
+    <rich_text>all port scans: 192.168.100.0/24
+&gt;nmap -p- 192.168.100.0/24
+
+   
+   
+      </rich_text>
+    <encoded_png char_offset="61" justification="left" link="" sha256sum="b8ea585414829d54559305e2042c31da0e41b28dc8849644281b40bf7e071003"/>
+    <encoded_png char_offset="73" justification="left" link="" sha256sum="140f5cd19a18693570c3003052551bca2273e61e982738e866fad5a72501b6f0"/>
+  </node>
+</cherrytree>

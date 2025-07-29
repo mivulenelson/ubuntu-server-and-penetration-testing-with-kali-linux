@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="29" master_id="0" name="zenmapguilook" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753537440" ts_lastsave="1753537501">
+    <rich_text>   
+
+   
+
+   
+
+   
+
+   
+
+   
+      
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="cfb4893e68209770bf6eb8ddbec9d2e7559f55eb92375b8f3058be533096a3ca"/>
+    <encoded_png char_offset="6" justification="left" link="" sha256sum="992226e18f5244947fb99a216434bd054abe8848f6c96bfad30f72fed48251da"/>
+    <encoded_png char_offset="12" justification="left" link="" sha256sum="4b7e1bbb8895252ebbfd2f3b2ce4a20f5b99ae567633486fd3eb64a3fd73f1d5"/>
+    <encoded_png char_offset="18" justification="left" link="" sha256sum="ec6b1a249c6888b67c9c50594b6c4502d1f57b24f6f1d789b7b28a4032829579"/>
+    <encoded_png char_offset="24" justification="left" link="" sha256sum="d572761276446c69a0d8f80c69b78b67ce7a2feab8a585e0f1993bff71281b05"/>
+    <encoded_png char_offset="30" justification="left" link="" sha256sum="10e4438685c50c5b2b03b4ec8981513dbc2445e9ce5ce303f558929fe8a058b8"/>
+    <encoded_png char_offset="35" justification="left" link="" sha256sum="9564d6880d2b6be4dad60c5f2dc882adb146bf318bbf01e9a3fc847f91ce7adb"/>
+    <encoded_png char_offset="39" justification="left" link="" sha256sum="e12fa89d5e4bdc0c8397d4c0230c04fc446ecdf951879f747aa83410154b60f8"/>
+  </node>
+</cherrytree>

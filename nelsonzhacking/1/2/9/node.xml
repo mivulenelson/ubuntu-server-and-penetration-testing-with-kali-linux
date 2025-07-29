@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="9" master_id="0" name="servicescan" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753462075" ts_lastsave="1753462101">
+    <rich_text>service scans
+&gt;nmap -sV 192.168.100.4
+
+   </rich_text>
+    <encoded_png char_offset="39" justification="left" link="" sha256sum="4c425b4db766b3108d895b3103fccd35d85bf92af213af0d272c37268933226c"/>
+  </node>
+</cherrytree>

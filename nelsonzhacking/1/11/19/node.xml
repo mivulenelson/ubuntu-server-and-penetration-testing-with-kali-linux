@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="19" master_id="0" name="search vsftpd in msf" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753531973" ts_lastsave="1753531975">
+    <rich_text>search the script for vsftpd service
+msf&gt;search vsftpd 2.3.4
+
+   </rich_text>
+    <encoded_png char_offset="62" justification="left" link="" sha256sum="d82c52d6d190e65552406d3f0613a9a5ac1f6ba31e21e932737adcc8d6c25538"/>
+  </node>
+</cherrytree>
