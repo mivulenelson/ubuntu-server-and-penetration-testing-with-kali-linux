@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="4" master_id="0" name="networking in ubunut server" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753779856" ts_lastsave="1753782701">
+    <rich_text>ifconfig command
+- its interface configuration and shows all the connected devices to your system with their ip addresses, netmask, broadcast, packets, and ,mac addresses, hardware
+- similar to the ipconfig in windows networking
+- &gt;ifconfig
+
+   
+- Ping command
+- used to check if a system is connected to the internet or a given device on the given network
+- if used -c No: shows how many times you want to ping
+- &gt;ping -c No_of_pings ipaddress eg
+- &gt;ping -c 3 8.8.8.8
+
+   
+
+- files that software networking services
+- they are found in the /etc/hostname for setting the hostname &amp; /etc/network/interfaces for configuring interfaces
+
+&gt;sudo nano /etc/hostname (you can change your hostname here and then reboot your systrem)
+
+
+
+
+- &gt;/etc/network/interfaces
+- &gt;sudo nano /etc/network/interfaces
+- Set a static ip for the server in this file 
+- wpa-ssid name (sets your wirelesse network name)
+- wpa-psk password  (sets pasword that wireless network)
+
+- &gt;sudo ifdown interface (disconnects the interface and loose internet connectivity)
+- &gt;sudo ifup interface (connects back the interface)
+
+- &gt;sudo ifconfig [interface_name] down
+- &gt;sudo ip link set [interface_name] down
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="242" justification="left" link="" sha256sum="3db642327a8df76fdb12ace9561ac16f9c21d1c1489612516aebf63bd7284c24"/>
+    <encoded_png char_offset="471" justification="left" link="" sha256sum="5954be24e9dc10f12ebcc96abd96ebfe0cc6343744cb23d905669d2123ed6a14"/>
+    <encoded_png char_offset="727" justification="left" link="" sha256sum="609b28ebf70641655ae2ef079cf2ccfb4256073b9264314e5e139bc8fb44ab9c"/>
+    <encoded_png char_offset="1172" justification="left" link="" sha256sum="8e7fd260ad75e55ebf4ea4925a17c070ded982edc422cc7246da242ef180b880"/>
+  </node>
+</cherrytree>

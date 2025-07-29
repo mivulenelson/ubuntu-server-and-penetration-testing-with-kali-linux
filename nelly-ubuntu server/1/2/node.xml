@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="2" master_id="0" name="intalling prograns and depencies" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1753777972" ts_lastsave="1753779823">
+    <rich_text>dependencies are other files that work together with a given to run or the program is dependent on these to run smoothly
+
+&gt;sudo apt-get install program_name (this works for only known programs
+
+   
+&gt;sudo apt-cache search program_name (searches for any program if you dont know its name)
+
+   
+&gt;sudo apt-get update (updates all the repositories within the system)
+
+   
+&gt;sudo apt-get upgrade (updates all programs to their latest versions)
+
+   
+
+&gt;sudo nano etc/apt/sources.list  (you can customize the repositories from this file)
+- in this file, you can add any new repos you would want to fetch your programs and dependencies but incase you want them only
+
+   
+- in this file, you can uncomment the extras.ubuntu.com trusty main line for you to access extra depencies
+
+  
+- after run the update command
+-&gt;sudo apt update
+
+   
+- checking for new ubunut releases, but will return nothing if your system is already update
+- If you installed an LTS version, you will have some 7 years of support, with latest drives with updated security features for all that time
+
+- &gt;sudo do-release-upgrade
+
+      
+- uninstalling softwares 
+- &gt;sudo apt-get remove program/software_name
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="194" justification="left" link="" sha256sum="0e0fc482635e504c10222e59343080d004e75b859e7d98b45c69030ff89c6b30"/>
+    <encoded_png char_offset="289" justification="left" link="" sha256sum="5e1caa58f5aeebeff835c464ee731976e507604f35e2446c9f7ce1e4b60dc8b5"/>
+    <encoded_png char_offset="365" justification="left" link="" sha256sum="5f33c6978831adcf14f5a4bef601e5f238e9c45df986c30829161d0adc2beeb4"/>
+    <encoded_png char_offset="441" justification="left" link="" sha256sum="31ef579f66ad74b82ac42eb523b91706c73d85d57b8ee70bee80e50bccd82d3a"/>
+    <encoded_png char_offset="660" justification="left" link="" sha256sum="882f89c777de2d668a989f09ebfd0cf77d12648c9c045ae3335b5716588b436b"/>
+    <encoded_png char_offset="773" justification="left" link="" sha256sum="f64c2dde22ed4371b2092562ac7fdf60b702566b8ad25a9737fb85edcb4167e9"/>
+    <encoded_png char_offset="827" justification="left" link="" sha256sum="d8603b2f4986856170c78d1681d659aa4c5dffa495dba29004f5404855cadef4"/>
+    <encoded_png char_offset="1096" justification="left" link="" sha256sum="a85603837d6ae077539dfaac54e3bf3fdff0d9c99ce7af04a5f1958605437f7f"/>
+    <encoded_png char_offset="1176" justification="left" link="" sha256sum="1a4a6ef2c63fac8e984047e024ae2a948fe987c425e2282102aef59a57d04ac1"/>
+  </node>
+</cherrytree>
